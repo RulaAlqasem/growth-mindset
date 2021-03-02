@@ -24,6 +24,6 @@ with a growthe mined set you will push yourself to sucsiss by Perseverance, gump
 
 ###### A growth mindset opens you up to more creativity and possibility, and you discover your able to achieve more and set higher goals.  
 ###### after this you will be Growing  person at work, and outside work too.
-
+.
 
 
