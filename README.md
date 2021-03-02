@@ -14,7 +14,7 @@ with a growthe mined set you will push yourself to sucsiss by Perseverance, gump
 
 ### there is som Challenges and proplemes thats will be hard on you but when you a growthe mined person who walk through the problem once again, bit by bit, looking for new ways to think about it until you start to see another way forward.
 
-*  **there are  Obstacles that will bring you down ,but when You feel hopeless walk away, and return when you’re feeling more inspired. this isn’t often a viable option for projects at work, but just recognizing what’s happening helps you make peace with it.
+*  **there are  Obstacles that will bring you down ,but when You feel hopeless walk away, and return when you’re feeling more inspired. this isn’t often a viable option for projects at work, but just recognizing what’s happening helps you make peace with it.**
 
 *   *you have to make an effort dont  giving up too easily  the good feeling isn’t instantaneous but you will be proud of your self after aa period of time.*   
 
