@@ -4,8 +4,11 @@
 
 
 |HTML 4| XHTML 1.0|HTML5|
+
 |---|---|---|
+
 |Released 1997|Released 2000|Released 2000| 
+
 |authors are not recommended to use it any more| HTML4 should be reformulated to follow the rules of XML and it was renamed XHTML|  not yet completed, you can safely take advantage of the new features of the language as long as you endeavour to ensure that users with older browsers will be able to view your pages|
 
 
