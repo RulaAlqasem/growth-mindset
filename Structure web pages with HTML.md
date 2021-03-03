@@ -1,6 +1,8 @@
 
 
 # ch8: The different versions of HTML
+
+
 |HTML 4| XHTML 1.0|HTML5|
 |---|---|---|
 |Released 1997|Released 2000|Released 2000| 
