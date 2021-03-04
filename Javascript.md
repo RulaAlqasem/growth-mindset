@@ -9,11 +9,10 @@ you cane compare the  scripts with
 1. DEFINE THE GOAL :the task you want to achieve. 
 2. DESIGN THE SCRIPT : split the goal out into a series of tasks that contain the order you want to use .
 3. CODE EACH STEP: writ Each one  of the steps withe  JavaScript language FROM STEPS TO CODE:
-
-1. you need to get to grips with the:
-* Vocabulary: The words that computers understand
-* Syntax: How you put those words together to create instructions computers can follow
-2.  also need to learn how a computer achieves different types of goals using a programmatic approach to problem-solving.  You need to learn to "think" like a computer because they solve tasks in different ways than you or I might approach them. 
+* you need to get to grips with the:
+  * Vocabulary: The words that computers understand
+  * Syntax: How you put those words together to create instructions computers can follow
+*  also need to learn how a computer achieves different types of goals using a programmatic approach to problem-solving.  You need to learn to "think" like a computer because they solve tasks in different ways than you or I might approach them. 
 
 ## DEFINING A GOAL & DESIGNING THE SCRIPT
 
@@ -41,6 +40,5 @@ name|OPERATOR| PURPOSE
 * var number = 12
 **you can use +  to  mix strings and numbers
 If you try to use any of the other arithmetic operators on a string, then the value that results is usually a value called NaN. This means "not a number."**
-## FUNCTION: 
 
 
