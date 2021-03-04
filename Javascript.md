@@ -37,10 +37,8 @@ name|OPERATOR| PURPOSE
 
 
 ## STRING OPERATOR  
+
 * var name  = 'name of file'
 * var number = 12
 **you can use +  to  mix strings and numbers
-If you try to use any of the other arithmetic operators on a string, then the value that results is usually a value called NaN. This means "not a number."**
-## FUNCTION: 
-
-
+If you try to use any of the other arithmetic operators on a string, then the value that results is usually a value called NaN. This means "not a number."
