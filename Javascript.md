@@ -36,18 +36,11 @@ name|OPERATOR| PURPOSE
 |MODULUS| % | Divides two values and returns the remainder|
 
 
-![pic](110 4a.png)
-
 ## STRING OPERATOR  
 * var name  = 'name of file'
 * var number = 12
 **you can use +  to  mix strings and numbers
 If you try to use any of the other arithmetic operators on a string, then the value that results is usually a value called NaN. This means "not a number."**
-
-![pic2](1204a.png)
-
 ## FUNCTION: 
 
-![pic4](1404a.png)
 
-![pic3](1304a.png)
