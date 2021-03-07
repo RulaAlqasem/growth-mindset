@@ -11,7 +11,7 @@
 |>=| greater thane or equal to| its checks if the number on the left greater than  or equal to the number on the right |
 |<= |less than or equal to| its checks if the number on the left less than or equal to  the number on the right |
 |&& | and  | its give you true only if the two sides are true |
-| ||  |or | its gives you false only if the two sides are false |
+|   |or | its gives you false only if the two sides are false |
 | ! | not | its gives you the opposit logic |
 
  
