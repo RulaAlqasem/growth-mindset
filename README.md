@@ -1,6 +1,6 @@
 # Code 201 Reading Notes
 **welcum to home page** 
-* ### [read about growth mined set](https://rulaalqasem.github.io/reading-note/)
+* ### [read about growth mined set](https://rulaalqasem.github.io/reading-note/growthminde)
 * ### [read gits comands summary](https://rulaalqasem.github.io/reading-note/git%20summary)
 * ### [read about html](https://rulaalqasem.github.io/reading-note/Structure%20web%20pages%20with%20HTML)
 * ### [read about loops](https://rulaalqasem.github.io/reading-note/comp-loop)
