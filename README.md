@@ -1,4 +1,4 @@
-# Code 201 Reading Notes
+# Code 102 Reading Notes
 **welcum to home page** 
 * ### [read about growth mined set](https://rulaalqasem.github.io/reading-note/growthminde)
 * ### [read gits comands summary](https://rulaalqasem.github.io/reading-note/git%20summary)
