@@ -36,9 +36,15 @@ Starting with the HTML layer allows you to focus on the most important thing abo
 - The HTML **script** element is used in HTML pages to tell the browser to load the JavaScript file
 
  ## JS STATEMENTS :
- **/* MULTI-LINE COMM ENTS */**
+  **/*MULTI-LINE COMMENTS** 
+  
+  
  **//single line comment**
+ 
+ 
  **var** x = 1; (put a number or "string" in x variable more thane once)
+ 
+ 
  **let** x =1; (put a number or "string" in x variable one time)
 
  ## DATA TYPES
