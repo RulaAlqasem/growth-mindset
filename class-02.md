@@ -1,22 +1,21 @@
 # how to add markup to the text that appears on your pages.?
 * Structural markup:
-- headings:HTML has six "levels" of headings (h1-h6)
-- paragraphs:To create a paragraph, surround the words that make up the paragraph with an opening tag and closing p tag.
-- Bold :By encloding words in the tags **b** we can make characters appear bold.
-- Italic: By encloding words in the tags *i* we can make characters appear italic.
-- Superscript:The **sup** element is used to contain characters that should be superscript such as 2^2
-- Subscrip: The **sub** element is used to contain characters that should be subscript. H2O
-- White Space:When the browser comes across two or more spaces next to each other, it only displays one space
-- Line Breaks : to add a line break inside the middle of a paragraph you can use the line break tag **br /**.
-- Horizontal Rules :you can add a horizontal rule between sections using the **hr /** tag.
+1. headings:HTML has six "levels" of headings (h1-h6)
+2. paragraphs:To create a paragraph, surround the words that make up the paragraph with an opening tag and closing p tag.
+3. Bold :By encloding words in the tags **b** we can make characters appear bold.
+4. Italic: By encloding words in the tags *i* we can make characters appear italic.
+5. Superscript:The **sup** element is used to contain characters that should be superscript such as 2^2
+6. Subscrip: The **sub** element is used to contain characters that should be subscript. H2O
+7. White Space:When the browser comes across two or more spaces next to each other, it only displays one space
+8. Line Breaks : to add a line break inside the middle of a paragraph you can use the line break tag **br /**.
+9. Horizontal Rules :you can add a horizontal rule between sections using the **hr /** tag.
 * Semantic markup:There are some text elements that are not intended to affect the structure of your web pages, but they do add extra  information to the pages .
-+ Strong & Emphasis:The use of the **strong** element indicates that its content has strong importance ,The **em** element indicates emphasis that subtly changes the meaning of a sentence.
-+ Quotations:The **blockquote** element is used for longer quotes that take up an entire paragraph.
-+ Abbreviations: If you use an abbreviation or  an acronym, then the **abbr** element can be used.
-+ Citations & Definitions:the **cite** element can be used to indicate where the citation is from,The **dfn** element is used to indicate the defining instance of a new term.
-+ Author Details:use **address** element to contain contact details for the author of the page.
-<>
-<>
+1. Strong & Emphasis:The use of the **strong** element indicates that its content has strong importance ,The **em** element indicates emphasis that subtly changes the meaning of a sentence.
+2. Quotations:The **blockquote** element is used for longer quotes that take up an entire paragraph.
+3. Abbreviations: If you use an abbreviation or  an acronym, then the **abbr** element can be used.
+4. Citations & Definitions:the **cite** element can be used to indicate where the citation is from,The **dfn** element is used to indicate the defining instance of a new term.
+5. Author Details:use **address** element to contain contact details for the author of the page.
+
 # Introducing CSS
 * **how CSS works?**
 - CSS allows you to create rules that control the way that each individual box (and the contents of that box) is presented
