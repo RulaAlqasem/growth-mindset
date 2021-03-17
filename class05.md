@@ -1,5 +1,9 @@
 ## img 
 ![](17.PNG)
+
+
+
+
 height:This specifies the height of the image in pixels.
 width:This specifies the width of the image in pixels.
 Where to Place Images in Your Code:
