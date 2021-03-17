@@ -47,8 +47,9 @@ CSS has the following positioning schemes that allow you to control the layout o
 
 # declering a function:
 ![image](04r7.PNG) 
+
 calling function :
-![image](04r8)
+![image](04r8.PNG)
 
 
 ## [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
