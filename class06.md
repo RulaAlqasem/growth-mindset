@@ -23,12 +23,24 @@ Objects group together a set of variables and functions to create a model of a s
 
 ### how to creat object :
  literal notation:
+ 
+ 
+ 
+ 
 ![](r061.PNG)
 
+
+
 * Accessing An objecgt and dot notation :
+
+
 ![](r062.PNG)
 
+
 ![](r063.PNG)
+
+
+
 
 ###The Document Object Model (DOM) specifies 
 how browsers should create a model of an HTML page and how JavaScript can access and update the contents of a web page while it is in the browser window. 
@@ -41,22 +53,49 @@ how browsers should create a model of an HTML page and how JavaScript can access
 WORKING WITH THE DOM TREE:
 * STEP 1: ACCESS THE ELEMENTS 
 * STEP 2: WORK W ITH THOSE ELEMENTS
+
+
+
+
 ![](r064.PNG) 
+
+
+
   NODELISTS: DOM QUERIES THAT RETURN MORE THAN ONE ELEMENT
   
   SELECTING AN ELEMENT FROM A NODELIST :
+  
+  
+  
+  
+  
+  
+  
   ![](r065.PNG)
+  
+  
 
 LOOPING THROUGH A NODELIST:
 If you want to apply the same code to numerous elements, looping through a Nodelist is a powerful technique. 
 
 TRAVERSING THE DOM:
+
+
+
+
 ![](r066.PNG)
 
+
+
 WHITESPACE NODES :
+
 Traversing the DOM can be ifficult because some browsers add a text node whenever they come across whitespace between elements.
 
+
 ![](r067.PNG)
+
+
+
 
 * From an element node, you can access and update its content using properties such as textContent and i nnerHTML or using DOM manipulation techniques. 
 * An element node can contain multiple text nodes and child elements that are siblings of each other. 
