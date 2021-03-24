@@ -1,7 +1,7 @@
 # Error Handling and Debugging:
 
 ## how to find the errors in your code?
- ## how to write scripts that deal with potential errors gracefully?
+ ##  how to write scripts that deal with potential errors gracefully?
 
  * When writing a long script, nobody gets everything right in their first attempt. The error messages that a browser gives look cryptic at first, but they can help you determine what went wrong in your JavaScript and how to fix it.
 
