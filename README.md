@@ -25,3 +25,5 @@
 * ### [read about  Local Storage](https://rulaalqasem.github.io/reading-note/class013)
 * ### [read about  CSS Transforms, Transitions, and Animations](https://rulaalqasem.github.io/reading-note/class014a)
 * ### [read about What Google Learned About Teams](https://rulaalqasem.github.io/reading-note/class014b)
+## Code 301 Reading Notes
+* ### [read about Introduction to React and Components](https://rulaalqasem.github.io/reading-note/301r1)
