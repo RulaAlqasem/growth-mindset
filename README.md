@@ -27,3 +27,16 @@
 * ### [read about What Google Learned About Teams](https://rulaalqasem.github.io/reading-note/class014b)
 ## Code 301 Reading Notes
 * ### [read about Introduction to React and Components](https://rulaalqasem.github.io/reading-note/301r1)
+* ### [read about how to make the Clock component truly reusable and encapsulated](https://rulaalqasem.github.io/reading-note/301r2)
+* ### [read about spread operator](https://rulaalqasem.github.io/reading-note/301r3)
+* ### [read about Controlled Component](https://rulaalqasem.github.io/reading-note/301r4)
+* ### [read about React](https://rulaalqasem.github.io/reading-note/301r5)
+* ### [read about Node.js](https://rulaalqasem.github.io/reading-note/301r6)
+* ### [read about REST](https://rulaalqasem.github.io/reading-note/301r07)
+* ### [read about REST APIs](https://rulaalqasem.github.io/reading-note/301r08)
+* ### [read about manage function invocation](https://rulaalqasem.github.io/reading-note/301r10)
+* ### [read about OAuth](https://rulaalqasem.github.io/reading-note/301r011)
+* ### [read about Mongo and Mongoose](https://rulaalqasem.github.io/reading-note/301r012)
+* ### [read about CRUD](https://rulaalqasem.github.io/reading-note/301r013)
+* ### [read about Women & Coding](https://rulaalqasem.github.io/reading-note/301r14)
+## Code 401 Reading Notes
