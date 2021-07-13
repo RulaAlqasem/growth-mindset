@@ -1,5 +1,4 @@
-[*HOME*](https://nassir1976.github.io/reading-notes/)
-## Readnote-15
+
 
 ### Implementation: Trees
 
